@@ -1,11 +1,5 @@
 # File: Moon.py
 # Description: A program modeling the restricted three body program of Sun, Earth, Moon
-# Student's Name: Albert Nguyen
-# Student's EID: an27789
-# Partner's Name: Mitchel Miners
-# Partner's EID: mwm2747
-# Date created: 3/4/2022
-# Date modified: 3/6/2022
 from vpython import *
 
 # simulation of the motion of the earth around the sun
